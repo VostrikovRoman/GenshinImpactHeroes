@@ -1,0 +1,90 @@
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Genshin_Impact_Heroes.mdf
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Genshin_Impact_Heroes_log.ldf
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Genshin Impact Heroes.exe.config
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Genshin Impact Heroes.exe
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Genshin Impact Heroes.pdb
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Azure.Core.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Azure.Identity.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Buffers.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Memory.Data.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Memory.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Security.Permissions.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Text.Json.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.ValueTuple.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Azure.Core.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Azure.Identity.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Buffers.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Memory.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Memory.Data.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Security.Permissions.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Text.Json.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\System.ValueTuple.xml
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\Genshin_Impact_Heroes.Properties.Resources.resources
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\Genshin Impact Heroes.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\Genshin Impact Heroes.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\Genshin Impact Heroes.csproj.CopyComplete
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\Genshin Impact Heroes.exe
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\Genshin Impact Heroes.pdb
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\Genshin_Impact_Heroes.Form1.resources
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\az\Genshin Impact Heroes.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\Genshin_Impact_Heroes.Form1.az.resources
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\az\Genshin Impact Heroes.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\bin\Debug\ru\Genshin Impact Heroes.resources.dll
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\Genshin_Impact_Heroes.Form1.ru.resources
+C:\Users\Рома\Desktop\Genshin Impact Heroes\obj\Debug\ru\Genshin Impact Heroes.resources.dll
